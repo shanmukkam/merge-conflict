@@ -7,10 +7,13 @@ Initial Function()
 
 Initial Security()
 {
-
+<<<<<<< HEAD
  	// added in feature1
 	//Sample Code
-        //added data in feature2
+=======
+ //Sample Code
+ //added data in feature2
+>>>>>>> feature2
 }
 
 
